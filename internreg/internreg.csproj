@@ -68,4 +68,8 @@
       </Properties>
     </MonoDevelop>
   </ProjectExtensions>
+  <ItemGroup>
+    <None Include="menubar.ing" />
+    <None Include="menubar.inc" />
+  </ItemGroup>
 </Project>

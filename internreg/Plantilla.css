@@ -1,37 +1,111 @@
 body{margin:0;padding:0}
 #cabezote_fac {
 	margin: 12px auto 0;
-	width:970px;
-	backghround: url("http://puj-portal.javeriana.edu.co/portal/page/portal/Facultad%20de%20Ingenieria/1imagenes/cabezote.jpg") no-repeat center top;
-	display: relative;
+	width: 970px;
+	height: 140px;
+	background: url("http://puj-portal.javeriana.edu.co/portal/page/portal/Facultad%20de%20Ingenieria/1imagenes/cabezote.jpg") no-repeat center top;
+	position: relative;
 }
 #contenido_fac {
-	margin: 0 auto;
-	width:970px;
 	display: relative;
+	width: 970px;
+	height; auto;
+	margin: 0 auto;
+	background: url(http://puj-portal.javeriana.edu.co/portal/page/portal/Facultad%20de%20Ingenieria/1imagenes/fondo_menuprin.jpg) repeat-y center center;
+}
+#fondo {
+	width: 960px;
+	margin: 0 5px;
+	background: #94b3c5 url(http://puj-portal.javeriana.edu.co/portal/page/portal/Facultad%20de%20Ingenieria/1imagenes/fondo_vertical.jpg) repeat-x center 150px;
+}
+#banner {
+	background: url('http://puj-portal.javeriana.edu.co/portal/page/portal/Facultad%20de%20Ingenieria/1imagenes_banner/fac_ing.jpg');
+	width: 960px;
+	height: 150px;
+	position: relative;
+}
+#banner_texto{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 46px;
+	color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: rgba(45,91,129,.7);
+}
+.tit_banner_3{
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0;
+}
+#banner_texto .lang{
+	float: right;
+	margin: 10px 25px 0 0;
 }
 #footer_fac {
 	margin: 0 auto;
 	width:970px;
 	display: relative;
+	background: url('http://puj-portal.javeriana.edu.co/portal/page/portal/Facultad%20de%20Ingenieria/1imagenes/footer_fac.jpg') no-repeat center bottom;
+	height: 25px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Verdana, Helvetica, "Trebuchet MS";
+	font-size: 9px;
+	color: #ffffff;
+	line-height: 20px;
 }
 #logo {
 	display: block;
-	position: relative;
-	background: url('http://puj-portal.javeriana.edu.co/portal/page/portal/plantillasAtico/imagenes/tiara.gif') no-repeat center mid;
+	padding: 15px 0 0 20px;
 	float: left;
-	width: 246px;
-	heigth: 82px;
 }
 #logo a {
 	display: block;
+	background: url('http://puj-portal.javeriana.edu.co/portal/page/portal/plantillasAtico/imagenes/tiara.gif') no-repeat center top;
+	width: 246px;
+	height: 82px;
 	font-size: 0;
 	text-indent: -999em;
-	width: 246px;
-	heigth: 82px;
 }
 #FormBusqueda {
 	float: right;
+	height: 50px;
+	margin: 18px 30px 0 0;
+	position: relative;
+	text-align: right;
+	width: 364px;
+}
+#FormBusqueda label {
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#FormBusqueda input {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	padding: 1px 0;
+}
+#FormBusqueda select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+}
+#titulo_fac{
+	text-align: right;
+	clear: right;
+	color: #ffffff;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	padding: 20px 22px 0 0;
 }
 ul.MenuBarHorizontal
 {

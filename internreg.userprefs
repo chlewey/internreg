@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="internreg/Plantilla.master">
+    <Files>
+      <File FileName="internreg/Default.aspx" Line="1" Column="116" />
+      <File FileName="internreg/Default.aspx.cs" Line="1" Column="1" />
+      <File FileName="internreg/Default.aspx.designer.cs" Line="1" Column="1" />
+      <File FileName="internreg/Global.asax" Line="1" Column="1" />
+      <File FileName="internreg/Global.asax.cs" Line="1" Column="1" />
+      <File FileName="internreg/web.config" Line="1" Column="1" />
+      <File FileName="internreg/Plantilla.css" Line="47" Column="16" />
+      <File FileName="internreg/Plantilla.master" Line="51" Column="59" />
+      <File FileName="internreg/_menubar.inc" Line="7" Column="91" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
