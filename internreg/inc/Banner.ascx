@@ -1,4 +1,4 @@
-<%@ Control Language="C#" Inherits="bolsaemp.Banner" %>
+<%@ Control Language="C#" Inherits="internreg.Banner" %>
         <aside id="banner">
           <div id="banner_texto">
             <h1 id="banner_title">Facultad</h1>
