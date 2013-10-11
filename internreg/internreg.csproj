@@ -105,7 +105,6 @@
   </ProjectExtensions>
   <ItemGroup>
     <None Include="internreg.csproj" />
-    <None Include="bin\internreg.dll" />
-    <None Include="bin\internreg.dll.mdb" />
+    <None Include="banners.xml" />
   </ItemGroup>
 </Project>

@@ -7,6 +7,9 @@ namespace internreg
 {
 	public partial class Search : System.Web.UI.UserControl
 	{
+		public virtual void iniciarBusquedaG (object sender, EventArgs args)
+		{
+		}
 	}
 }
 

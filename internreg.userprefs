@@ -1,13 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="internreg/inc/Banner.ascx">
+  <MonoDevelop.Ide.Workbench ActiveDocument="internreg/inc/MenuBar.ascx">
     <Files>
       <File FileName="internreg/Default.aspx" Line="5" Column="1" />
-      <File FileName="internreg/Global.asax" Line="1" Column="36" />
-      <File FileName="internreg/Global.asax.cs" Line="1" Column="1" />
-      <File FileName="internreg/inc/Banner.ascx" Line="1" Column="46" />
-      <File FileName="internreg/inc/Banner.ascx.cs" Line="6" Column="20" />
-      <File FileName="internreg/inc/Banner.ascx.designer.cs" Line="14" Column="20" />
+      <File FileName="internreg/inc/Banner.ascx" Line="7" Column="8" />
+      <File FileName="internreg/inc/Banner.ascx.cs" Line="12" Column="1" />
+      <File FileName="internreg/Default.aspx.cs" Line="15" Column="1" />
+      <File FileName="internreg/javeriana.master" Line="35" Column="28" />
+      <File FileName="internreg/inc/Search.ascx" Line="14" Column="14" />
+      <File FileName="internreg/inc/SideMenu.ascx" Line="16" Column="55" />
+      <File FileName="internreg/inc/MenuBar.ascx" Line="103" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

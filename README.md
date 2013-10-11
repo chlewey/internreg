@@ -1,7 +1,7 @@
-internreg
+InternReg
 =========
 
-Registro de practicantes
+Registro de prácticas profecionales y practicantes
 
 Interfaz del estudiante
 -----------------------
