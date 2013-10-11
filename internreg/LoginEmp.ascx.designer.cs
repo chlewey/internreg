@@ -11,14 +11,16 @@
 namespace internreg {
 	
 	
-	public partial class Default {
+	public partial class LoginEmp {
 		
-		protected System.Web.UI.WebControls.Content Content1;
+		protected System.Web.UI.WebControls.MultiView MultiViewEst;
 		
-		protected internreg.LoginEmp LoginEmp;
+		protected System.Web.UI.WebControls.View EmpRegister;
 		
-		protected internreg.LoginEst LoginEst;
+		protected System.Web.UI.WebControls.View EmpLogin;
 		
-		protected System.Web.UI.WebControls.Button button1;
+		protected System.Web.UI.WebControls.View EmpHelp;
+		
+		protected System.Web.UI.WebControls.View EmpHello;
 	}
 }

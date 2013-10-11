@@ -46,6 +46,8 @@
     <Content Include="inc\MenuBar.ascx" />
     <Content Include="inc\Search.ascx" />
     <Content Include="inc\SideMenu.ascx" />
+    <Content Include="LoginEst.ascx" />
+    <Content Include="LoginEmp.ascx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -92,6 +94,18 @@
     </Compile>
     <Compile Include="inc\SideMenu.ascx.designer.cs">
       <DependentUpon>SideMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginEst.ascx.cs">
+      <DependentUpon>LoginEst.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginEst.ascx.designer.cs">
+      <DependentUpon>LoginEst.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginEmp.ascx.cs">
+      <DependentUpon>LoginEmp.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginEmp.ascx.designer.cs">
+      <DependentUpon>LoginEmp.ascx</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
