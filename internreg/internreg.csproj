@@ -48,6 +48,17 @@
     <Content Include="inc\SideMenu.ascx" />
     <Content Include="LoginEst.ascx" />
     <Content Include="LoginEmp.ascx" />
+    <Content Include="Fing.master" />
+    <Content Include="Registro.ascx" />
+    <Content Include="css\f-fancy.css" />
+    <Content Include="css\f-layout.css" />
+    <Content Include="css\f-style.css" />
+    <Content Include="inc\Header.ascx" />
+    <Content Include="inc\LeftArea.ascx" />
+    <Content Include="inc\RightArea.ascx" />
+    <Content Include="inc\TopArea.ascx" />
+    <Content Include="inc\TopMenu.ascx" />
+    <Content Include="inc\pagehead.ascx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -106,6 +117,54 @@
     </Compile>
     <Compile Include="LoginEmp.ascx.designer.cs">
       <DependentUpon>LoginEmp.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Fing.master.cs">
+      <DependentUpon>Fing.master</DependentUpon>
+    </Compile>
+    <Compile Include="Fing.master.designer.cs">
+      <DependentUpon>Fing.master</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.ascx.cs">
+      <DependentUpon>Registro.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Registro.ascx.designer.cs">
+      <DependentUpon>Registro.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\Header.ascx.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\Header.ascx.designer.cs">
+      <DependentUpon>Header.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\LeftArea.ascx.cs">
+      <DependentUpon>LeftArea.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\LeftArea.ascx.designer.cs">
+      <DependentUpon>LeftArea.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\RightArea.ascx.cs">
+      <DependentUpon>RightArea.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\RightArea.ascx.designer.cs">
+      <DependentUpon>RightArea.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\TopArea.ascx.cs">
+      <DependentUpon>TopArea.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\TopArea.ascx.designer.cs">
+      <DependentUpon>TopArea.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\TopMenu.ascx.cs">
+      <DependentUpon>TopMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\TopMenu.ascx.designer.cs">
+      <DependentUpon>TopMenu.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\pagehead.ascx.cs">
+      <DependentUpon>pagehead.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="inc\pagehead.ascx.designer.cs">
+      <DependentUpon>pagehead.ascx</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

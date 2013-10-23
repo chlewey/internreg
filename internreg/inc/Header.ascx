@@ -1,4 +1,4 @@
-<%@ Control Language="C#" Inherits="bolsaemp.Header" %>
+<%@ Control Language="C#" Inherits="internreg.Header" %>
 <!-- Header -->
 <header id="header">
 	<p id="sitenotice">
@@ -10,7 +10,7 @@
 	  <h2 id="section-lower"><a title="<%=Fing.department%>" class="area" href="/"><%=Fing.department%></a></h2>
 	</hgroup>
 	<nav id="internal" class="hidden">
-	  <p>Ir a <a href="#menus">navegación</a>, <a href="#search">búsqueda</a>.</p>
+	  <p>Ir a <a href="#TopMenu">navegación</a>, <a href="#search">búsqueda</a>.</p>
 	</nav>
 </header>
 <!-- /Header -->

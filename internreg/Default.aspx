@@ -1,4 +1,4 @@
-<%@ Page Language="C#" MasterPageFile="~/javeriana.master" Inherits="internreg.Default" Title="Prácticas profesionales" %>
+<%@ Page Language="C#" MasterPageFile="~/Fing.master" Inherits="internreg.Default" Title="Prácticas profesionales" %>
 <%@ Register TagPrefix="include" TagName="LoginEmp" Src="~/LoginEmp.ascx" %>
 <%@ Register TagPrefix="include" TagName="LoginEst" Src="~/LoginEst.ascx" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="Main" Runat="Server">

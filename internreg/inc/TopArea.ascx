@@ -1,4 +1,4 @@
-<%@ Control Language="C#" Inherits="bolsaemp.TopArea" %>
+<%@ Control Language="C#" Inherits="internreg.TopArea" %>
 <%@ Register TagPrefix="include" TagName="Banner" Src="~/inc/Banner.ascx" %>
 <%@ Register TagPrefix="include" TagName="MenuBar" Src="~/inc/MenuBar.ascx" %>
 <%@ Register TagPrefix="include" TagName="Search" Src="~/inc/Search.ascx" %>

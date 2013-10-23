@@ -14,7 +14,7 @@ public partial class Fing {
 	
 	protected System.Web.UI.UserControl head;
 	
-	protected System.Web.UI.UserControl Header;
+	protected internreg.Header Header;
 	
 	protected System.Web.UI.WebControls.ContentPlaceHolder Main;
 	
@@ -24,5 +24,5 @@ public partial class Fing {
 	
 	protected System.Web.UI.UserControl RightArea;
 	
-	protected bolsaemp.Footer Footer;
+	protected internreg.Footer Footer;
 }
